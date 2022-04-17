@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Leonardo Flach!
 <div aling="center">
   <a href="https://github.com/rafaballerini">
-  <img height="180em" width="495px" src="https://github-readme-stats.vercel.app/api?username=Leoxny&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoxny&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leoxny&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leoxny&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Tecnologias que estou aprendendo no momento:
