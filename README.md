@@ -23,6 +23,8 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/leoxny_)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=onboarding-landing)
   
- ![Snake animation](https://github.com/Leoxny/Leoxny/blob/output/github-contribution-grid-snake.svg)
+<div>
+   ![Snake animation](https://github.com/Leoxny/Leoxny/blob/output/github-contribution-grid-snake.svg)
+ </div>
 
 
